@@ -1,0 +1,8 @@
+postgres://
+
+user: fudwqsdhmdblnp
+password: 4f57a20c07d51d5b81242414f274778d9951bd1e662fe2d52ca518490e94df3c
+
+server: ec2-34-201-248-246.compute-1.amazonaws.com
+port: 5432
+database: d9vuavf5kdh72g
